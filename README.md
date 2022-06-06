@@ -21,4 +21,5 @@
 - Wasim Khan
 - Wasim Shaikh
 - Harikrishna Nair
+- Angad Singh Sena
 new change to readme file
